@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\backend\\SuperHero.csproj": {}
+    "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\SuperHeroBackend\\SuperHero.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\backend\\SuperHero.csproj": {
+    "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\SuperHeroBackend\\SuperHero.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\backend\\SuperHero.csproj",
+        "projectUniqueName": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\SuperHeroBackend\\SuperHero.csproj",
         "projectName": "SuperHero",
-        "projectPath": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\backend\\SuperHero.csproj",
+        "projectPath": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\SuperHeroBackend\\SuperHero.csproj",
         "packagesPath": "C:\\Users\\DaniloDameluz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\backend\\obj\\",
+        "outputPath": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\SuperHeroBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

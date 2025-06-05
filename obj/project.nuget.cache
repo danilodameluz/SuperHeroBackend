@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YUd8bBSoIU5+8Kz/rpZXCkaPdR7JNP2MlfCPRYqpql1HmdZbT6X0B1Ln2kNMJgc/8KGf69JUSfRtrPaSM550Bw==",
+  "dgSpecHash": "FyQfFaeeg+18IJ5cyDf5GkBgw1GyJ1j/m7cLM/VS7zD9d3H8Ce6fqyPN4WvQa070A2iOPCzi6dl2sIcKy8EoUQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\backend\\SuperHero.csproj",
+  "projectFilePath": "C:\\Users\\DaniloDameluz\\Documents\\Estudos\\Danilo\\SuperHero\\SuperHeroBackend\\SuperHero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DaniloDameluz\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\DaniloDameluz\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
